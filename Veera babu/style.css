@@ -1,0 +1,284 @@
+.h1-heading {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4b6cc1;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.h1-bg-image {
+    height: 100vh;
+    background-size: cover;
+    background-color: #191a1d;
+}
+
+.h1-image {
+    height: 350px;
+    width: 350px;
+}
+
+.h1-name-text {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 50px;
+}
+
+.h1-spam-text {
+    color: #4b6cc1;
+}
+
+#h1-para {
+    font-size: 25px;
+    color: #9aa5b1;
+}
+
+.h1-button {
+    background-color: #4b6cc1;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 8px;
+}
+.h2-about-section {
+    background-color: #323f4b;
+}
+
+.h2-image {
+    height: 420px;
+    width: 430px;
+}
+
+.h2-f {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.h2-me {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.h2-para2 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.h2-para1 {
+    color: #9aa5b1;
+    font-family: "roboto";
+    font-size: 18px;
+}
+
+.h2-s-baner {
+    background-color: #1f2933;
+    margin-bottom: 50px;
+}
+
+.h2-skill-card {
+    background-color: #323f4b;
+    padding: 10px;
+    height: 170px;
+    width: 180px;
+    border-radius: 15px;
+    margin-left: 40px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.h2-course-image {
+    height: 100px;
+    width: 100px;
+}
+
+.h2-course-name {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    padding-top:10px;
+}
+.page {
+    background-color: #3e4c59;
+}
+
+.heading {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#head {
+    color: #ffffff;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.p-image {
+    height: 250px;
+    width: 430px;
+}
+
+.para {
+    font-size: 30px;
+    color: #9aa5b1;
+}
+
+.para1 {
+    font-size: 18px;
+    color: #9aa5b1;
+}
+
+.p-details {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.p-name {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.read {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.s {
+    color: yellow;
+}
+.bg-home {
+    background-color: #52606d;
+}
+
+h1 {
+    color: #cced00;
+    font-size: 25px;
+}
+
+h2 {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-s {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+
+p {
+    color: #9aa5b1;
+    font-size: 25px;
+}
+.h4-home-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.h4-hr-line {
+    background-color: #ffffff;
+    width: 40px;
+}
+
+.h4-p {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.h4-h1 {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "roboto";
+}
+
+.h4-image {
+    height: 100px;
+    width: 100px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: green;
+}
+.h5-bg-container {
+    background-color: #1f2933;
+    height:100vh;
+}
+
+.h5-h1 {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.h5-h2 {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.h5-card-container {
+    background-color: #323f4b;
+    padding: 20px;
+    height:300px;
+}
+
+.h5-p {
+    color: #9aa5b1;
+    font-size: 30px;
+    font-family: "roboto";
+}
+
+.h5-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.h6-bg-container {
+    background-color: #0d2436;
+}
+
+.h6-h1 {
+    color: #cced00;
+    font-size: 25px;
+    font-family: "roboto";
+    font-weight: bold;
+}
+
+.h6-p {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: "roboto";
+}
+
+.h6-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.h6-btm-card {
+    background-color: #001c32;
+    text-align: center;
+}
